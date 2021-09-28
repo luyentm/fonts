@@ -1,0 +1,25 @@
+HTTP request sent, awaiting response... 200 OK
+Length: 98644 (96K) [application/vnd.oasis.opendocument.formula-template]
+Saving to: ‘Rambla-BoldItalic.otf’
+
+
+
+2020-06-03 18:27:10 (8.03 KB/s) - ‘Rambla-BoldItalic.otf’ saved [98644/98644]
+
+--2020-06-03 18:27:10--  https://www.photopea.com/rsrc/fonts/fs/Rambla-Italic.otf
+Reusing existing connection to www.photopea.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37144 (36K) [application/vnd.oasis.opendocument.formula-template]
+Saving to: ‘Rambla-Italic.otf’
+
+
+
+2020-06-03 18:27:17 (7.36 KB/s) - ‘Rambla-Italic.otf’ saved [37144/37144]
+
+--2020-06-03 18:27:17--  https://www.photopea.com/rsrc/fonts/fs/Rambla-Regular.otf
+Reusing existing connection to www.photopea.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 88540 (86K) [application/vnd.oasis.opendocument.formula-template]
+Saving to: ‘Rambla-Regular.otf’
+
+Rambla-Regular.otf           27%[==========>                               ]  23.64K  2.98KB/s    eta 21s    Rambla-Regular.otf           45%[==================>                       ]  39.64K  4.33KB/s    eta 11s    
